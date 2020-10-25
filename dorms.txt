@@ -1,0 +1,212 @@
+Baker Hall
+Central Residential Area 
+Room Types: Single, Double
+
+Birch Hall
+Commonwealth Honors College Residential Area 
+Room Types: Suite - Single, Double
+Apartment - Single, Double
+
+Brett Hall
+Central Residential Area 
+Room Types: Single, Double
+
+Brooks Hall
+Central Residential Area 
+Room Types: Single, Double
+
+Brown Hall
+Sylvan Residential Area  
+Room Types: Suite - Single
+
+​Butterfield Hall
+Central Residential Area 
+Room Types: Single, Double
+
+Cance Hall
+Southwest (RFYE) Residential Area 
+Room Types: Double, Triple
+
+Cashin Hall
+Sylvan Residential Area 
+​Room Types: Suite - Single
+
+Chadbourne Hall
+Central Residential Area 
+​Room Types: Single, Double
+
+Coolidge Hall
+Southwest (MY) Residential Area 
+​Room Types: Single, Double, Z-Room
+
+Crabtree Hall
+Northeast Residential Area  
+Room Types: Single, Double
+
+Crampton Hall
+Southwest (MY) Residential Area 
+Room Types: Single, Double
+
+Dickinson Hall
+Orchard Hill Residential Area
+Room Types: Double
+
+Dwight Hall
+Northeast Residential Area 
+Room Types: Double, Triple
+
+Elm Hall
+Commonwealth Honors College Residential Area
+Room Types: Suite - Single, Double
+Apartment - Single, Double
+
+Emerson Hall
+Southwest (RFYE) Residential Area 
+Room Types: Single, Double, Triple, Z-Room
+
+Field Hall
+Orchard Hill Residential Area 
+Room Types: Double
+
+Gorman Hall
+Central Residential Area 
+Room Types: Single, Double
+
+Grayson Hall
+Orchard Hill Residential Area
+​Room Types: Double
+
+Greenough Hall
+Central Residential Area 
+​Room Types: Single, Double
+
+Hamlin Hall
+Northeast Residential Area 
+Room Types: Single, Double
+
+James Hall
+Southwest (RFYE) Residential Area 
+Room Types: Single, Double, Triple, Z-Room
+
+John Adams Hall
+Southwest (RFYE) Residential Area 
+Room Types: Single, Double, Triple, Z-Room
+
+John Quincy Adams Hall
+Southwest (MY) Residential Area 
+Room Types: Single, Double, Z-Room
+
+Johnson Hall
+Northeast Residential Area 
+Room Types: Single, Double, Triple
+
+Kennedy Hall
+Southwest (RFYE) Residential Area 
+Room Types: Single, Double, Z-Room
+
+Knowlton Hall
+Northeast Residential Area 
+Room Types: Single, Double, Triple
+
+Leach Hall
+Northeast Residential Area 
+Room Types: Single, Double
+
+Lewis Hall
+Northeast Residential Area 
+Room Types: Single, Double
+
+Lincoln Apartments
+Room Types: Studio, One Bedroom, Two Bedroom
+
+Linden Hall
+Commonwealth Honors College Residential Area 
+Room Types: Suite - Single, Double
+Apartment - Single, Double
+
+MacKimmie Hall
+Southwest (MY) Residential Area 
+Room Types: Single, Double
+
+Maple Hall
+Commonwealth Honors College Residential Area 
+Room Types: Suite - Single, Double
+Apartment - Single, Double
+
+Mary Lyon Hall
+Northeast Residential Area 
+​Room Types: Double
+
+McNamara Hall
+Sylvan Residential Area 
+Room Types: Suite - Single
+
+Melville Hall
+Southwest (RFYE) Residential Area 
+Room Types: Single, Double, Triple, Z-Room
+
+Moore Hall
+Southwest (RFYE) Residential Area 
+Room Types: Double, Triple
+
+North Apartment A
+North Residential Area Apartments 
+Room Types: Apartment - Single
+
+North Apartment B
+North Residential Area Apartments
+Room Types: Apartment - Single
+
+North Apartment C
+North Residential Area Apartments
+Room Types: Apartment - Single
+
+North Apartment D
+North Residential Area Apartments
+​Room Types: Apartment - Single
+
+Oak Hall
+Commonwealth Honors College Residential Area
+Room Types: Suite - Single, Double
+Apartment - Single, Double
+
+Patterson Hall
+Southwest (MY) Residential Area 
+​Room Types: Single, Double
+
+Pierpont Hall
+Southwest (RFYE) Residential Area 
+​Room Types: Double, Triple
+
+Prince Hall
+Southwest (MY) Residential Area 
+​Room Types: Single, Double
+
+Sycamore Hall
+Commonwealth Honors College Residential Area 
+​Room Types: Single, Double
+
+Thatcher Hall
+Northeast Residential Area 
+​Room Types: Single, Double
+
+Thoreau Hall
+Southwest (RFYE) Residential Area 
+​Room Types: Single, Double, Triple, Z-Room
+
+Van Meter Hall
+Central Residential Area 
+​Room Types: Single, Double
+
+Washington Hall
+Southwest (MY) Residential Area 
+​Room Types: Single, Double, Z-Room
+
+Webster Hall
+Orchard Hill Residential Area
+​Room Types: Double
+
+Wheeler Hall
+Central Residential Area 
+​Room Types: Single, Double
+
